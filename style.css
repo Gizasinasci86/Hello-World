@@ -1,0 +1,26 @@
+h2{
+    color:rgb(225, 152, 43);
+}
+
+body{
+    background-color: darkgreen;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 3px solid rgb(223, 128, 128);
+}
+
+footer{
+    border-top: 1px solid rgb(223, 128, 128);
+}
+
+#nome-usuario{
+    font-weight: bold;
+}
+
+.texto-ingles{
+    font-style: italic;
+}
